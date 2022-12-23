@@ -1,17 +1,10 @@
-#include <iostream>
+#include<iostream>
+#include<vector>
+
 using namespace std;
 
 #define ll long long
 
-int main(void) {
-    ll n;
-    cin >>n;
-    ll s = n*(n-1)/2;
-    if (s%2){
-        
-    }
-    else {
-        cout << "NO";
-    }
-
+int main() {
+    
 }
